@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://t.me/marlborocool"
+                  href="https://t.me/flypig00"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://discord.gg/DPpBM5U6"
+                  href="https://discord.gg/yUUXDcJX"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

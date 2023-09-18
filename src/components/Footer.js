@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Kenny Stacker</h3>
+          <h3>Designed and Developed by Layton Hart</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} LH</h3>
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="mailto:joyful.wonder.minion@gmail.com"
+                href="mailto:layton.hart.cool@gmail.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://t.me/marlborocool"
+                href="https://t.me/flypig00"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://discord.gg/DPpBM5U6"
+                href="https://discord.gg/yUUXDcJX"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
