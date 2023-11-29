@@ -39,7 +39,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Express, Ruby on rails, Laravel, Django, ASP.NET</b> and
+              with <b className="purple">ExpressJs, NestJs, Laravel, Django, Ruby on rails, ASP.NET</b> and
               <i>
                 <b className="purple">
                   {" "}
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://t.me/flypig00"
+                  href="https://t.me/MadLad92"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://discord.gg/yUUXDcJX"
+                  href="#madlad0099"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

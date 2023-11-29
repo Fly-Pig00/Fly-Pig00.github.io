@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://t.me/flypig00"
+                href="https://t.me/MadLad92"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://discord.gg/yUUXDcJX"
+                href="#madlad0099"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
